@@ -27,10 +27,10 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Sergey Zalozniy' => 's.zalozniy1900@gmail.com' }
-  s.source           = { :git => 'https://github.com/Sergey Zalozniy/SMSCodeInputView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Lalafo-iOS/SMSCodeInputView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'SMSCodeInputView/Classes/**/*'
   
