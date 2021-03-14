@@ -31,8 +31,8 @@ pod 'SMSCodeInputView'
 
 ## Usage
 
-SMSCodeInputView can be created from code or it can set as outlet class in xib/storyboard. <br\>
-SMSCodeInputView supports self-sizing (like UILabel), so if you are using xib/storyboard set low prioirity to width and height constraints.
+SMSCodeInputView can be created from code or it can set as outlet class in xib/storyboard.<br>
+SMSCodeInputView supports self-sizing (like UILabel), so if you are using xib/storyboard set low prioirity to width and height constraints.<br>
 Settings:
 
 Set number of digits in code:
