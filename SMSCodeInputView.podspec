@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SMSCodeInputView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SMSCodeInputView.'
+  s.summary          = 'SMSCodeInputView is class for displaying OneTimePassword view. UI can be easy customized. Pure Swift.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,11 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    s.description      = <<-DESC
+    SMSCodeInputView encapsulates several UITextField inside UIStackView. It can be easily customized.
+    Use this class for OTP from SMS (or othe sources).
+    It uses password auto fill feature starting from iOS 12. 
                        DESC
 
-  s.homepage         = 'https://github.com/Sergey Zalozniy/SMSCodeInputView'
+  s.homepage         = 'https://github.com/Lalafo-iOS/SMSCodeInputView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Sergey Zalozniy' => 's.zalozniy1900@gmail.com' }
