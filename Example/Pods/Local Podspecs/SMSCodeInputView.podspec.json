@@ -1,0 +1,26 @@
+{
+  "name": "SMSCodeInputView",
+  "version": "0.1.0",
+  "summary": "A short description of SMSCodeInputView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sergey Zalozniy/SMSCodeInputView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sergey Zalozniy": "s.zalozniy1900@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Sergey Zalozniy/SMSCodeInputView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SMSCodeInputView/Classes/**/*",
+  "swift_versions": [
+    "5.0"
+  ],
+  "swift_version": "5.0"
+}

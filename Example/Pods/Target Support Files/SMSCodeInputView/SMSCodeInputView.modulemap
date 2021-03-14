@@ -1,0 +1,6 @@
+framework module SMSCodeInputView {
+  umbrella header "SMSCodeInputView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SMSCodeInputView (0.1.0)
+
+DEPENDENCIES:
+  - SMSCodeInputView (from `../`)
+
+EXTERNAL SOURCES:
+  SMSCodeInputView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SMSCodeInputView: abc3dc70aa59d9202a89b05cf44f4ece1b7267ec
+
+PODFILE CHECKSUM: b77c7650e7b4b8baca03cac011eab8da5c5fd882
+
+COCOAPODS: 1.10.1

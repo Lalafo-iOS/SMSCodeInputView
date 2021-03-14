@@ -1,1 +1,29 @@
 # SMSCodeInputView
+
+[![CI Status](https://img.shields.io/travis/Sergey Zalozniy/SMSCodeInputView.svg?style=flat)](https://travis-ci.org/Sergey Zalozniy/SMSCodeInputView)
+[![Version](https://img.shields.io/cocoapods/v/SMSCodeInputView.svg?style=flat)](https://cocoapods.org/pods/SMSCodeInputView)
+[![License](https://img.shields.io/cocoapods/l/SMSCodeInputView.svg?style=flat)](https://cocoapods.org/pods/SMSCodeInputView)
+[![Platform](https://img.shields.io/cocoapods/p/SMSCodeInputView.svg?style=flat)](https://cocoapods.org/pods/SMSCodeInputView)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+SMSCodeInputView is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'SMSCodeInputView'
+```
+
+## Author
+
+Sergey Zalozniy, s.zalozniy1900@gmail.com
+
+## License
+
+SMSCodeInputView is available under the MIT license. See the LICENSE file for more info.
