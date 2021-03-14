@@ -1,6 +1,6 @@
 # SMSCodeInputView
 
-[![CI Status](https://img.shields.io/travis/Sergey Zalozniy/SMSCodeInputView.svg?style=flat)](https://travis-ci.org/Sergey Zalozniy/SMSCodeInputView)
+[![CI Status](https://img.shields.io/travis/Lalafo-iOS/SMSCodeInputView.svg?style=flat)](https://travis-ci.org/Lalafo-iOS/SMSCodeInputView)
 [![Version](https://img.shields.io/cocoapods/v/SMSCodeInputView.svg?style=flat)](https://cocoapods.org/pods/SMSCodeInputView)
 [![License](https://img.shields.io/cocoapods/l/SMSCodeInputView.svg?style=flat)](https://cocoapods.org/pods/SMSCodeInputView)
 [![Platform](https://img.shields.io/cocoapods/p/SMSCodeInputView.svg?style=flat)](https://cocoapods.org/pods/SMSCodeInputView)
